@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_day: earth
+  theme_night: earth
+  font: rose
   font_size: L
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo documentation theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Fall 2022 Torts with Prof. Colin Doyle'
+    twitter: ' '
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Colin Doyle. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
