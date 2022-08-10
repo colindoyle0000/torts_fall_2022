@@ -7,13 +7,13 @@ main:
   - name: 'Welcome!'
     url: /
     weight: 20
-  - name: 'Logistics'
+  - name: 'Logistics /'
     url: docs/
     weight: 30
-  - name: 'Teaching Method & Class Policies'
+  - name: 'Class Policies /'
     url: teach/
     weight: 40
-  - name: 'Course Technology'
+  - name: 'Course Technology /'
     url: tech/
     weight: 50
   - name: 'Exams & Grading'
@@ -21,5 +21,5 @@ main:
     weight: 60
   - name: 'Reading Assignments'
     url: read/
-    weight: 70
+    weight: 25
     
