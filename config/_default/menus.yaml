@@ -7,7 +7,7 @@ main:
   - name: 'Welcome!'
     url: /
     weight: 20
-  - name: 'Syllabus /'
+  - name: 'Syllabus'
     url: docs/
     weight: 30
   - name: 'Reading Assignments'
