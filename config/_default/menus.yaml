@@ -7,18 +7,9 @@ main:
   - name: 'Welcome!'
     url: /
     weight: 20
-  - name: 'Logistics /'
+  - name: 'Syllabus /'
     url: docs/
     weight: 30
-  - name: 'Class Policies /'
-    url: teach/
-    weight: 40
-  - name: 'Course Technology /'
-    url: tech/
-    weight: 50
-  - name: 'Exams & Grading'
-    url: exams/
-    weight: 60
   - name: 'Reading Assignments'
     url: read/
     weight: 25
